@@ -14,7 +14,15 @@ Session 1:
 
 ## Python Resources
 
- - [Formatting Strings](https://docs.python.org/3.4/library/string.html#format-string-syntax)
+The following are good general references for learning topics in data science and economics with Python.
+
+* [Lectures in ](https://lectures.quantecon.org/)[Quantitative Economics](https://lectures.quantecon.org/), by Thomas J. Sargent and John Stachurski (QuantEcon)
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/), by Jake VanderPlas (PDSH)
+* [Python for Data Analysis, 2nd Edition](https://github.com/wesm/pydata-book), by Wes McKinney (PDA)
+
+Also, take a look at the material for a class that was previously taught:
+
+* [Computational Methods in Economics (2019)](https://github.com/jmbejara/comp-econ-sp19)
 
 **Pandas Resources**
 
@@ -23,6 +31,11 @@ Session 1:
  - Adding and Subtracting Time:
      - Timedelta: https://pandas.pydata.org/pandas-docs/stable/timedeltas.html
      - Accounting for leap years when subtracting a year---comparing `DateOffset` and `dateutil.relativedelta`: https://stackoverflow.com/a/31169977/1411791
+
+**Misc**
+
+ - [Formatting Strings](https://docs.python.org/3.4/library/string.html#format-string-syntax)
+
 
 ## Econometrics Textbooks
 
