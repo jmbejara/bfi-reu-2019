@@ -1,13 +1,18 @@
 # Numerical Optimization in Python (BFI REU 2019)
 
-Agenda
-
 Session 1:
 
  - [Brief Introduction to Numerical Optimization](./optimization_intro.ipynb)
  - [Application: Portfolio Optimization](./portfolio-optimization.ipynb)
    - Solutions [here](./portfolio-optimization--solutions.ipynb) 
 
+Session 2:
+
+ - [Brief Introduction to MLE](./Brief_Intro_to_MLE.ipynb)
+ - [Application to Industrial Organization: Bresnehan and Reiss (1991)](./bresnahan-reiss-1991-discussion.ipynb)
+
+   - [Implemention](replicate-bresnahan-reiss-1991.ipynb)
+   - [Solutions](replicate-bresnahan-reiss-1991--solutions.ipynb)
 
 # Potentially Useful Resources
 
